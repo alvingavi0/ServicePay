@@ -1,0 +1,14 @@
+{
+  "name": "calvin/servicepaywallet",
+  "description": "ServicePay Wallet – PHP + Firebase Firestore integration",
+  "require": {
+    "php": "^8.0",
+    "kreait/firebase-php": "^7.23",
+    "google/cloud-firestore": "^1.43"
+  },
+  "autoload": {
+    "psr-4": {
+      "ServicePay\\": "src/"
+    }
+  }
+}
