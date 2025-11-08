@@ -1,0 +1,8 @@
+# Ignore Firebase credentials
+config/*.json
+
+# Ignore vendor dependencies
+/vendor
+
+# Ignore local environment files
+.env
